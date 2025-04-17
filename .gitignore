@@ -1,0 +1,18 @@
+# Ignora a pasta com os dados de raios-x
+chest_xray/
+
+# Ignora todos os arquivos salvos do modelo
+models/*
+!models/.gitkeep
+
+# Ignorar cache específico do Dash
+dash/components/__pycache__/
+
+# Ignorar arquivos de ambiente virtual (se estiver dentro do projeto)
+.env
+*.env
+.venv/
+venv/
+
+.DS_Store
+dash/pages/__pycache__/index.cpython-311.pyc
