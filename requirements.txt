@@ -1,0 +1,9 @@
+tensorflow>=2.10
+numpy
+matplotlib
+scikit-learn
+pandas
+Pillow
+dash
+dash-bootstrap-components
+dotenv
