@@ -1,7 +1,6 @@
 
 import tensorflow as tf
 import matplotlib.pyplot as plt
-import numpy as np
 from keras._tf_keras.keras import layers, models
 import os
 from dotenv import load_dotenv
